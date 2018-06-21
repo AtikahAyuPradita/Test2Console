@@ -1,0 +1,6 @@
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\Test2\Test2\bin\Debug\Test2.exe.config
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\Test2\Test2\bin\Debug\Test2.exe
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\Test2\Test2\bin\Debug\Test2.pdb
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\Test2\Test2\obj\Debug\Test2.exe
+c:\users\mrs.rosidah\documents\visual studio 2012\Projects\Test2\Test2\obj\Debug\Test2.pdb
